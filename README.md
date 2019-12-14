@@ -8,7 +8,3 @@ Harness the power of Tor pluggable transports in obfsproxy in order to  build a 
 
 ---
 
-
-
-I wrote this a long time ago. It never really gained an audience - so you get it for free now!
-
