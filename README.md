@@ -6,5 +6,9 @@
 
 Harness the power of Tor pluggable transports in obfsproxy in order to  build a stealth mode for OpenVPN. Configure your Apple Mac OS X computer to connect to an OpenVPN network using an obfuscation proxy that is  extremely difficult for network administrators to detect. It enables you to add yet another layer of security towards the respect of your  privacy or to bypass a firewall with deep packet inspection.
 
+---
+
+
+
 I wrote this a long time ago. It never really gained an audience - so you get it for free now!
 
